@@ -1,21 +1,94 @@
-# 💫 About Me:
- I’m currently working on Backend-focused projects using Python and Django, including web applications, scrapers, and REST APIs. I actively use Git, GitHub, virtual environments, Docker basics, and structured project layouts. I’m looking to collaborate on Beginner-to-intermediate Python/Django backend projects, especially those involving real-world logic: authentication, databases, APIs, scraping, automation, or deployment workflows. I’m looking for help with Writing clean, production-ready code, mastering Django internals, avoiding common Python pitfalls, improving database query efficiency, and understanding deployment + CI/CD properly. I’m currently learning Advanced Python concepts (OOP, memory behavior, pitfalls) Django ORM deeply (queries, relationships, optimization)<br><br>Git & GitHub workflows (branching, commits, debugging breakage) Docker and deployment fundamentals Backend system thinking (how real apps fail and scale) Ask me about Python basics to intermediate concepts, Django project structure, virtual environments, Git issues, debugging broken code after commits, and how backend pieces connect together. Fun fact I don’t stop at “it works.” I want to know why it works, why it breaks, and how to fix it correctly—even if it takes longer.
+# 💫 About Me
 
+I am a backend-focused developer with a strong foundation in **Python and Django**, actively building real-world applications rather than toy projects. My work emphasizes **clean architecture, correct logic, and deep system understanding**—not just making things work.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prajwal-dhital-3b1367271) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwaldhital851@gmail.com) 
+I regularly develop **Django web applications, REST APIs, scrapers, and backend utilities**, with careful attention to **project structure, database design, ORM optimization, and debugging workflows**. I work daily with **Git and GitHub**, use isolated **virtual environments**, and understand the fundamentals of **Docker, deployment, and CI/CD pipelines**.
 
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prajwal851851&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prajwal851851&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal851851&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+What sets me apart is persistence. I analyze *why* code fails, *how* Django behaves internally, and *what* breaks after commits. Bugs are learning signals, not obstacles.
+
+---
+
+### 🔗 Portfolio & Live Projects
+- 🌐 **Portfolio:** https://prajwal851.vercel.app/
+- 🚀 **Live Project (QR Menu App):** https://qrmenucode.netlify.app/
+
+---
+
+### 👯 Collaboration
+I’m open to collaborating on **Python/Django backend projects** involving:
+- Authentication & authorization
+- Database design & optimization
+- REST APIs
+- Web scraping & automation
+- Deployment workflows
+
+---
+
+### 🤝 Currently Improving
+- Writing **production-ready Python code**
+- Mastering **Django internals & ORM**
+- Avoiding common Python pitfalls
+- Database query efficiency
+- Dockerized deployments & CI/CD
+- Backend system design and failure analysis
+
+---
+
+### 🌱 Actively Learning
+- Advanced **Python OOP & memory behavior**
+- Django ORM optimization (`select_related`, `prefetch_related`)
+- Git workflows (branching, rebasing, debugging commits)
+- Cloud deployment fundamentals
+- Scalable backend architecture
+
+---
+
+### 💬 Ask Me About
+Python fundamentals to intermediate concepts, Django project structure, virtual environments, Git/GitHub issues, debugging broken builds, and backend system design.
+
+⚡ **Fun Fact**  
+I don’t stop at *“it works.”* I want to know **why it works, why it breaks, and how to fix it correctly**.
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prajwal-dhital-3b1367271)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajwaldhital851@gmail.com)
+
+---
+
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=prajwal851851&theme=dark&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=prajwal851851&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal851851&theme=dark&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=prajwal851851&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prajwal851851&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=prajwal851851&icon=0&color=0)](https://visitcount.itsvg.in)
