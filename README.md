@@ -9,8 +9,9 @@ What sets me apart is persistence. I analyze *why* code fails, *how* Django beha
 ---
 
 ### 🔗 Portfolio & Live Projects
-- 🌐 **Portfolio:** https://prajwal851.vercel.app/
-- 🚀 **Live Project (QR Menu App):** https://qrmenucode.netlify.app/
+- 🌐 **Portfolio: https://prajwaldhitalportfolio.vercel.app/
+- 🚀 **Live Project (QR Menu App): https://qrmenucode.netlify.app/
+- 🚀 **Live Project (Streammux - Movie & Series Streaming): https://streammux.digital/
 
 ---
 
